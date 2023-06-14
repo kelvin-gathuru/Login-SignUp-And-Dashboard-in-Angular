@@ -1,7 +1,9 @@
 # 🌐 WebApp In AngularJs
 
 This project is a web application generated with Angular CLI..
+
 To see the live demo click https://angularwebapp-f1320.web.app/login 
+
 Just enter any valid email and a password to test the functionality and see the dashboard with dummy data.
 
 ## 🚀 Installation
@@ -31,8 +33,7 @@ npm install
 ```
 
    This will compile the application and launch a dev server. Open your browser and navigate to [http://localhost:4200/login](http://localhost:4200/) to access the application. The server will automatically reload if you make any changes to the source files.
-   
-   Just enter any valid email and a password to login and see the dashboard.
+
 
 ## Screenshots
 ### Login
