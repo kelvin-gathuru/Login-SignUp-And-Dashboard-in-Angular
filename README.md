@@ -28,7 +28,9 @@ npm install
  ng serve
 ```
 
-   This will compile the application and launch a dev server. Open your browser and navigate to [https://localhost:4200/login](http://localhost:4200/) to access the application. The server will automatically reload if you make any changes to the source files.
+   This will compile the application and launch a dev server. Open your browser and navigate to [http://localhost:4200/login](http://localhost:4200/) to access the application. The server will automatically reload if you make any changes to the source files.
+   
+   Just enter any valid email and a password to login and see the dashboard.
 
 ## Screenshots
 ### Login
