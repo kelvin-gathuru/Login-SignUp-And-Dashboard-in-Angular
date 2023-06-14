@@ -1,27 +1,32 @@
 # WebApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.5.
+This project is a web application generated with Angular CLI.
 
-## Development server
+## Installation
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Follow these steps to run the application locally:
 
-## Code scaffolding
+1. Clone this repository to your local machine or download the source code.
+2. Make sure you have Angular CLI installed globally. If not, you can install it by running the following command:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+npm install -g @angular/cli
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+3. Open a terminal or command prompt and navigate to the project's root directory.
+4. Install the project dependencies by running the following command:
 
-## Running unit tests
+npm install
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+5. After the installation is complete, start the development server by running the command:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+ng serve
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+This will compile the application and launch a dev server. Open your browser and navigate to `http://localhost:4200/` to access the application. The server will automatically reload if you make any changes to the source files.
+
+That's it! You now have the web application up and running on your local machine.
+
+If you encounter any issues or need further assistance, please let us know.
+
+Happy coding!
