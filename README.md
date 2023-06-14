@@ -33,15 +33,15 @@ npm install
 ## Screenshots
 ### Login
 
-<img src="https://giffiles.alphacoders.com/120/120251.gif" style="height: 300px; width: 1200px" alt="MasterHead">
+<img src="https://github.com/kelvin-gathuru/Gallery/blob/main/Screenshot%202023-06-14%20at%2021-25-53%20WebApp.png" style="height: 300px; width: 1200px" alt="MasterHead">
 
 ### Signup
 
-<img src="https://giffiles.alphacoders.com/120/120251.gif" style="height: 300px; width: 1200px" alt="MasterHead">
+<img src="https://github.com/kelvin-gathuru/Gallery/blob/main/Screenshot%202023-06-14%20at%2021-27-56%20WebApp.png" style="height: 300px; width: 1200px" alt="MasterHead">
 
 ### Dashboard
 
-<img src="https://giffiles.alphacoders.com/120/120251.gif" style="height: 300px; width: 1200px" alt="MasterHead">
+<img src="https://github.com/kelvin-gathuru/Gallery/blob/main/Screenshot%202023-06-14%20at%2021-27-00%20WebApp.png" style="height: 300px; width: 1200px" alt="MasterHead">
 
 ## Remarks
 
