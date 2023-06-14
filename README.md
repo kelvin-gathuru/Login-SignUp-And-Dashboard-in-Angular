@@ -1,4 +1,4 @@
-# 🌐 WebApp In AngularJs
+# 🌐 WebApp In Angular
 
 This project is a web application generated with Angular CLI..
 
