@@ -2,6 +2,8 @@
 
 This project is a web application generated with Angular CLI..
 
+## 🚀 Live Demo
+
 To see the live demo click https://angularwebapp-f1320.web.app/login 
 
 Just enter any valid email and a password to test the functionality and see the dashboard with dummy data.
